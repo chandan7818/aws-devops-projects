@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AWS CI/CD Project</title>
+</head>
+
+<body>
+<h1>CI/CD Pipeline Working</h1>
+<h1>CI/CD Pipeline using GitHub and AWS</h1>
+<p>Deployment Successful</p>
+
+</body>
+</html>
